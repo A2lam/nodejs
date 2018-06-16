@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A2lam/nodejs.git"
+  },
+  "author": "A2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A2lam/nodejs/issues"
+  },
+  "homepage": "https://github.com/A2lam/nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pm2": "^2.10.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
